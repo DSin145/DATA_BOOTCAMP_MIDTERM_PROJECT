@@ -22,7 +22,7 @@ This project uses datasets from **2 APIs**:
 
 | API | Description |
 |---|---|
-| `U.S. Census Bureau` | U.S. International Trade information |
+| `U.S. Census Bureau` | U.S. International Trade Data (e.g. exports and imports) |
 | `FRED` | Economic Data Series (e.g. Exchange Rates, Energy Prices, etc.) |
 
 ---
