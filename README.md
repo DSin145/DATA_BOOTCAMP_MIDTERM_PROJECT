@@ -1,6 +1,8 @@
 # ECON-UB-232-Data-Bootcamp-Midterm Project 
 ---
 
+## Group Members: Ethan Wang, Danush Sinnan, Sam Luo
+
 ## 📌 Project Overview
 
 This project aims to give an idea of applying **Exploratory Data Analysis Skills from the Data Bootcamp Course** in a real business scenario. We will develop a basic understanding of the **international trade landscape** and understand **how certain economic factors (e.g. exchange rates, energy prices, etc.) influence U.S. international trade**, particularly exports to other nations.
