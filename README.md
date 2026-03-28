@@ -8,7 +8,7 @@ This project aims to give an idea of applying **Exploratory Data Analysis Skills
 ## 🗂️ Repository Structure
 
 ```
-├── Data Bootcamp Midterm Project V2.ipynb   # Main Jupyter Notebook (full Midterm Project code)
+├── Data_Bootcamp_Midterm_Project_V2.ipynb   # Main Jupyter Notebook (full Midterm Project code)
 ├── Data Bootcamp Midterm Project Write-up.pdf             # Midterm Project Write Up
 ├── README.md
 ├── requirements.txt                         
