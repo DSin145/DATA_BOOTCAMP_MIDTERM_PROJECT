@@ -1,6 +1,10 @@
 # ECON-UB-232-Data-Bootcamp-Midterm Project 
 ---
 
+## 📌 Project Overview
+
+This project aims to give an idea of applying **Exploratory Data Analysis Skills from the Data Bootcamp Course** in a real business scenario. We will develop a basic understanding of the **international trade landscape** and understand **how certain economic factors (e.g. exchange rates, energy prices, etc.) influence U.S. international trade**, particularly exports to other nations.
+
 ## 🗂️ Repository Structure
 
 ```
@@ -48,7 +52,7 @@ Or open it directly in **Google Colab** by uploading to your Drive and mounting 
 
 ---
 
-## 📌 Executive Summary
+## 📈 Executive Summary
 
 **Data Bootcamp Midterm Project** | Prepared using U.S. Census Bureau API & FRED Data (2010–2025)
 
