@@ -60,7 +60,7 @@ Or open it directly in **Google Colab** by uploading to your Drive and mounting 
 
 ### Overview
 
-This project applies exploratory data analysis (EDA) techniques to investigate U.S. international trade patterns and the macroeconomic factors that influence them. Using two live data sources — the U.S. Census Bureau API (trade flows by industry and country, 2016–2025) and the Federal Reserve Economic Data (FRED) API (exchange rates, oil prices, and interest rates, 2010–2025) — the analysis addresses two core questions:
+This project applies exploratory data analysis (EDA) techniques to investigate U.S. international trade patterns and the macroeconomic factors that influence them. Using two live data sources — the U.S. Census Bureau API (trade flows by industry and country, 2016–2025) and the Federal Reserve Economic Data (FRED) API (exchange rates, oil prices, and interest rates, 2010–2025) — the analysis addresses two core questions (and many sub-questions within each section):
 
 - What does the U.S. trade, and with whom?
 - What economic variables drive U.S. export performance?
