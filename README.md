@@ -35,8 +35,8 @@ This project uses datasets from **2 APIs**:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ht2604/ECON-UB-232-Data-Bootcamp-EDA-Case-Study.git
-cd ECON-UB-232-Data-Bootcamp-EDA-Case-Study
+git clone https://github.com/DSin145/DATA_BOOTCAMP_MIDTERM_PROJECT.git
+cd DATA_BOOTCAMP_MIDTERM_PROJECT
 ```
 
 ### 2. Install dependencies
