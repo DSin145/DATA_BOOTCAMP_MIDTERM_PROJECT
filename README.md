@@ -1,4 +1,4 @@
-# ECON-UB-232-Data-Bootcamp-Midterm Project 
+# Trade & Macroeconomics Data Pipeline
 ---
 
 ## Group Members: Ethan Wang, Danush Sinnan, Sam Luo
